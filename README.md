@@ -1,3 +1,4 @@
+```javascript
 # blog.js
 !DOCTYPE html>
 <html lang="en">
