@@ -8,6 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>blog</title>
 </head>
+
 <style>
   body{
     
@@ -147,6 +148,7 @@ background-color: rgb(218, 113, 113);
     <h1 class="blog-title">  Nature in mind </h1>
     <p >A log of natural events, natural history and nature-based philosophy</p>
 
+<!--This is navigation-->
     <div class="sidebar">
       <a href="#">Home</a>
       <a href="#">About us </a>
@@ -156,6 +158,8 @@ background-color: rgb(218, 113, 113);
       <a href="#">Testimonials</a>
       <a href="#">Resources</a>
     </div>
+
+<!--articles for blog starts from here-->
   <div class="row">
     <div class="leftcolumn">
      <div class="article">
@@ -181,6 +185,7 @@ background-color: rgb(218, 113, 113);
   <p > Returning to Longboat Key, Florida, to check on our condo, I brought my oldest grandson with me; we arrived on the first day of the Atlantic Hurricane Season.  Nevertheless, we have enjoyed relatively pleasant (though humid) conditions except for one torrential downpour that knocked out our internet for the past two days. </p>
 <p> A number of severe storms have skirted our immediate area and we have enjoyed watching them develop and dissipate.  The ingredients are certainly present for hurricanes should they form in the Gulf or arrive from the Caribbean.  The Gulf of Mexico waters are already bathtub warm.</p>
 </div>
+
 <div class="article">
   <h3> Society -the soil in which we grow</h3>
   <h4>saturday,june 3,2023</h4>
@@ -194,6 +199,7 @@ background-color: rgb(218, 113, 113);
   <img src=" https://images.unsplash.com/photo-1502082553048-f009c37129b9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjd8fG5hdHVyZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60" alt="">
 <p> As I sit outside under an old plane tree that I know very well, I get the sense that summer is slowly coming to a close. A feeling accompanies this realisation. A sinking, uncomfortable feeling that I know all too well. It is the same feeling that comes on Sunday evenings as another week in…</p>
 </div>
+
 <div class="article">
   <h3> Nature connection exercise -perceive and receive</h3>
   <h4> Thursday,june 1,2023</h4>
@@ -252,7 +258,9 @@ background-color: rgb(218, 113, 113);
 </div>
 </div>
 </div>
-  
+
+  <!--footer section-->
+
 <div class="footer">
   <div class="footer-items">
     <a href="#">About us</a>
